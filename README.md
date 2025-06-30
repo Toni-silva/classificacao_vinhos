@@ -8,7 +8,7 @@ O objetivo é construir um modelo preditivo que possa classificar vinhos em uma 
 
 ## 💾 Dataset
 
-Utilizamos o dataset "Wine", disponível na biblioteca `scikit-learn`. Ele contém 178 amostras e 13 atributos.
+Utilizei o dataset "Wine", disponível na biblioteca `scikit-learn`. Ele contém 178 amostras e 13 atributos.
 
 ## 🛠️ Ferramentas e Bibliotecas
 
