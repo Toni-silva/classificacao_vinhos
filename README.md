@@ -12,7 +12,7 @@ Utilizamos o dataset "Wine", disponível na biblioteca `scikit-learn`. Ele cont�
 
 ## 🛠️ Ferramentas e Bibliotecas
 
-* **Linguagem:** Python 3
+* **Linguagem:** Python 3.11
 * **Bibliotecas Principais:**
     * `pandas` para manipulação de dados.
     * `scikit-learn` para o modelo de machine learning e métricas.
@@ -22,8 +22,8 @@ Utilizamos o dataset "Wine", disponível na biblioteca `scikit-learn`. Ele cont�
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/projeto_classificacao_vinhos.git](https://github.com/seu-usuario/projeto_classificacao_vinhos.git)
-    cd projeto_classificacao_vinhos
+    git clone https://github.com/Toni-silva/classificacao_vinhos.git
+    cd classificacao_vinhos
     ```
 
 2.  **Crie e ative um ambiente virtual (recomendado):**
